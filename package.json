@@ -1,0 +1,15 @@
+{
+  "name": "wum-poll",
+  "version": "1.0.0",
+  "description": "Voting with Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yunus Emre",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "git+https://github.com/discordjs/Commando.git"
+  }
+}
